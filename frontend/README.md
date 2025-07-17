@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Application
+
+This is the frontend application built with [Next.js](https://nextjs.org). It provides the user interface and client-side logic for the project.
 
 ## Getting Started
 
